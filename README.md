@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ko5761
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning netzork and telecommunications
+- 🌱 I’m currently learning network and telecommunications
 - 💞️ I’m looking to collaborate on cybersecurity community
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
